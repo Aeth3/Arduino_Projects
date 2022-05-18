@@ -1,5 +1,6 @@
 {
     "configuration": "cpu=atmega328old",
     "board": "arduino:avr:nano",
-    "programmer": "arduino:avrisp"
+    "programmer": "arduino:avrisp",
+    "sketch": "Codes\\automatic_feeder_test.ino"
 }
